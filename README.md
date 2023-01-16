@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me 😄
+
+I am a Master of Science in Electrical Engineering student interested in machine learning, computer vision, embedded systems, and all things programming.  My goal is to apply my interests to a biomedical engineering career. You can reach me via email at cmorrell@unb.ca.
 
 <!--
 **cmorrell28/cmorrell28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
