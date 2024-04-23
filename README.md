@@ -1,6 +1,6 @@
 ### About Me 😄
 
-I am a Master of Science in Electrical Engineering student at the Institute of Biomedical Engineering interested in all things programming. The primary focus of my research is in myoelectric control.
+I am a Master of Science in Electrical Engineering student at the Institute of Biomedical Engineering interested in all things programming. The primary focus of my research is in myoelectric control, but my academic and professional experience has taught me about breath diagnostics, computer vision, and more.
 
 Some of my interests include:
 
